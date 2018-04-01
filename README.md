@@ -1,0 +1,1 @@
+A relatively simple implementation of a heap using the container/heap standard package and a Comparable interface.
